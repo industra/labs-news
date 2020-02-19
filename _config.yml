@@ -1,0 +1,32 @@
+title: Industra LABS news
+description: "Industra LABS news info"
+author:
+  name: "Industra Labs"
+  email: "labs@industra.space"
+  url: "https://labs.industra.space"
+
+baseurl: https://labs.industra.space/news
+
+source: .
+destination: ./_site
+permalink: /:year-:month-:day-:title.html
+paginate: 10
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+# owner : "SomeHacker"
+# year : "2020"
