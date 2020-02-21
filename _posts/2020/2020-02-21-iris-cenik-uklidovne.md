@@ -3,7 +3,7 @@ title: "21-02-2020: Iris, cenik, uklidovne"
 published: true
 ---
 
-Dnes jsme (konecne) uvedli do provozu pracovni pocitac pro cleny, oznaceny jako [*iris01*](https://labs.industra.space/wiki/PC_infrastruktura) s rozumnym vykonem (4 jadra, 12 GB RAM). Pocitac je umisten vedle 3D tiskaren, smerem k regalum (vstup okolo laseru). Pripominam, ze pro uzivani pocitacoveho vybaveni plati urcite [pravidla](https://labs.industra.space/wiki/index.php?title=Pravidla&%2FRU=#Pravidla_pro_pou.C5.BEit.C3.AD_po.C4.8D.C3.ADta.C4.8D.C5.AF).
+Dnes jsme (konecne) uvedli do provozu pracovni pocitac pro cleny, oznaceny jako [*iris01*](https://labs.industra.space/wiki/PC_infrastruktura) s rozumnym vykonem (4 jadra, 12 GB RAM). Pocitac je umisten vedle 3D tiskaren, smerem k regalum (vstup okolo laseru). Pripominam, ze pro uzivani pocitacoveho vybaveni plati urcita [pravidla](https://labs.industra.space/wiki/index.php?title=Pravidla&%2FRU=#Pravidla_pro_pou.C5.BEit.C3.AD_po.C4.8D.C3.ADta.C4.8D.C5.AF).
 
 SW vybavení:
 
@@ -16,7 +16,7 @@ SW vybavení:
 * Sublime Text
 * Python 3
 
-LightBurn prozatim na PC neni z duvodu omezeneho poctu licenci, ktere mame k dispozici. Pokusime se o brzkou napravu tohoto stavu. Behem dubna by se mel ve vybaveni labu vyskytnou i notebook, ktery bude snadne prenaset pri praci s ruznymi stroji. Slozka *user_data*, ktera slouzi pro trvale ukladani dat bude brzy premistena na centralni server, aby tak byla vase data pristupna z jakehokoli stroje (mozna i z vasich soukromych notebooku?).
+LightBurn prozatim na PC neni z duvodu omezeneho poctu licenci, ktere mame k dispozici. Pokusime se o brzkou napravu tohoto stavu. Behem dubna by se mel ve vybaveni labu vyskytnout i notebook, ktery bude snadne prenaset pri praci s ruznymi stroji. Slozka *user_data*, ktera slouzi pro trvale ukladani dat bude brzy premistena na centralni server, aby tak byla vase data pristupna z jakehokoli stroje (mozna i z vasich soukromych notebooku?).
 
 Na wiki davame dohromady [cenik](https://labs.industra.space/wiki/Cen%C3%ADk), kde postupne budou uvedeny ceny vsech materialu, stroju atp. Nove jsme take pridali polozku *uklidovne*, ktere jsme nuceni uctovat za uklid zanechaneho neporadku na pracovisti.
 
