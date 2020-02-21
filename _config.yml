@@ -5,7 +5,9 @@ author:
   email: "labs@industra.space"
   url: "https://labs.industra.space"
 
-baseurl: https://labs.industra.space/news
+baseurl: /
+
+url: "https://labs.industra.space/news"
 
 source: .
 destination: ./_site
